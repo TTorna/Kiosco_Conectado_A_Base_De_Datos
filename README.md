@@ -1,0 +1,1 @@
+# Kiosco_Conectado_A_Base_De_Datos
